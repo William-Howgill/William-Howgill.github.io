@@ -60,3 +60,9 @@ a:hover {
     margin-bottom: 20px;
     font-size: 0.95em;
 }
+
+.links a {
+    display: block;
+    margin-bottom: 6px;
+}
+
